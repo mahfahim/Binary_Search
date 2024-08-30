@@ -1,3 +1,4 @@
+// https://rb.gy/gup6dg
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
